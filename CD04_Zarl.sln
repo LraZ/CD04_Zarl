@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD04_Zarl", "CD04_Zarl\CD04_Zarl.csproj", "{86A2F2D8-97AB-4658-9681-8F41606522A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD04_Zarl_Client", "CD04_Zarl\CD04_Zarl_Client.csproj", "{86A2F2D8-97AB-4658-9681-8F41606522A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD04_Zarl_Server", "CD04_Zarl_Server\CD04_Zarl_Server.csproj", "{BDB968C8-A95F-450C-A09F-E91D77B5211A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{86A2F2D8-97AB-4658-9681-8F41606522A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A2F2D8-97AB-4658-9681-8F41606522A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A2F2D8-97AB-4658-9681-8F41606522A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB968C8-A95F-450C-A09F-E91D77B5211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB968C8-A95F-450C-A09F-E91D77B5211A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB968C8-A95F-450C-A09F-E91D77B5211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB968C8-A95F-450C-A09F-E91D77B5211A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
